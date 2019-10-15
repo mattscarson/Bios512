@@ -1,1 +1,2 @@
-devtools::install_github("ropensci/plotly")
+install.packages('plotly')
+
